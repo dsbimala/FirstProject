@@ -1,0 +1,10 @@
+You can use Sourcetree, Git from the command line, or any client you like to clone your Git repository. These instructions show you how to clone your repository using Git from the terminal.
+
+From the repository, click + in the global sidebar and select Clone this repository under Get to work.
+
+Copy the clone command (either the SSH format or the HTTPS).
+If you are using the SSH protocol, ensure your public key is in Bitbucket and loaded on the local system to which you are cloning.
+
+From a terminal window, change to the local directory where you want to clone your repository.
+
+Paste the command you copied from Bitbucket, for example:

@@ -1,0 +1,13 @@
+You can also use Sourcetree to clone your repository. If you aren't familiar with Sourcetree, it's our client that provides an alternative to the command line. Follow these instructions to clone your repository. If you don't have SourceTree, download the application first.
+
+From the repository, select the Clone button.
+
+In the Clone this repository dialog, select the Clone in Sourcetree button.
+
+If necessary, update the Destination Path or Bookmark Name.
+
+The Destination Path is the folder where your clone saves to your local system.
+
+The Bookmark Name is the name of that folder.
+
+Select the Clone button.
