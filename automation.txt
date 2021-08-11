@@ -1,0 +1,7 @@
+Automation 
+
+GIT
+cloning a project
+create a branch
+push code
+pull code
